@@ -6,21 +6,21 @@ body {
   background-color: red;
   font-family: Tahoma, sans-serif;
 }
-#topbar-ul {
+ul #topbar-ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
 }
-#topbar-li {
+li #topbar-li {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
 }
-#topbar-li-a {
+li a #topbar-li-a {
   display: block;
   color: white;
   text-align: center;
