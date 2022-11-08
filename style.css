@@ -24,22 +24,20 @@ ul #topbar-ul {
   background-color: #333;
 }
 */
-#topbar-li li {
+#topbar li {
   float:left;
-  /*
   display:block;
   width:120px;
   margin-left:2px;
   border:1px solid #000;
-  */
 }
-#topbar-li-a a {
+#topbar a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px;
   text-decoration: none;
 }
-#topbar-li-a a:hover {
+#topbar a:hover {
   background-color: #111;
 }
